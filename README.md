@@ -25,6 +25,8 @@ Gencraft Para gerar capas
 📚 Materiais
 
 Notion Template
+Imagem capa IA
+Audio Elevenlabs
 
 🤖 1. Use os prompts de roteiro no chagpt
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
